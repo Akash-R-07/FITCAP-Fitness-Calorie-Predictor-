@@ -1,4 +1,4 @@
-# Fitness Calorie Predictor (FITCAL)
+# Fitness Calorie Predictor (FITCAP)
 
 This project focuses on building a **Machine Learning model to predict the number of calories burned during physical activities** based on physiological and activity-related parameters. The system analyzes inputs such as **age, gender, height, weight, heart rate, body temperature, and activity duration** to estimate calorie expenditure.
 
