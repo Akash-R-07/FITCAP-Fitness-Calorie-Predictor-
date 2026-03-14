@@ -1,4 +1,4 @@
-# Calorie Burn Prediction using Machine Learning
+# Fitness Calorie Predictor (FITCAL)
 
 ## Overview
 
