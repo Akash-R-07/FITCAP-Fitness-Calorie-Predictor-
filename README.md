@@ -117,6 +117,6 @@ The project follows a structured ML pipeline:
 
 ## Author
 
-**Akash R**
-AI & Data Science Enthusiast
+**Akash R**  
+---AI & Data Science Enthusiast---
 Intern at Luminar Technolab
